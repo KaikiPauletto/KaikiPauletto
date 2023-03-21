@@ -1,7 +1,6 @@
-<div
-  aling="center">### Hi there 👋
+<div align="center" 
+  <p>Olá</p>
   <br> 
-  <br>
   :computer: Me chamo Kaiki André Pauletto e sou um programador Front End.
   <br>
   <br>
@@ -17,9 +16,8 @@
   <br>
   <br>
   <br>
+
+  ![Kaiki stats](https://github-readme-stats.vercel.app/api?username=KaikiPauletto&show_icons=true&theme=transparent)
+
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikiPauletto&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-![Kaiki stats](https://github-readme-stats.vercel.app/api?username=KaikiPauletto&show_icons=true&theme=transparent)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikiPauletto&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-  
